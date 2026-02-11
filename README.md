@@ -42,7 +42,7 @@ Clean Tesla-inspired UI design
 
 Clone the repository:
 
-git clone https://github.com/your-username/tesla-clone.git
+git clone https://github.com/Romario11messi/tesla-clone.git
 
 
 Open the folder:
